@@ -5,9 +5,12 @@
 | |_| | (_| | |  |   <|  _|  __/ | | | (_| |
 |____/ \__,_|_|  |_|\_\_|  \___|_| |_|\__,_|
 ```
-
 An simple hyprland dotfiles for arch linux and arch based distro
 Made by @Flasherxgapple aka Fendi
+
+![screenshot of darkfend dotfiles](/Hyprland-overview.png)
+
+Another screenshot in config directory of this repository
 
 Dependencies:
 - git - clone the repository
