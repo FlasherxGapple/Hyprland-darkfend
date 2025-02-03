@@ -1,0 +1,8 @@
+configuration {
+ modi: "combi,run,drun,window";
+ show-icons: true;
+ icon-theme: "papirus";
+ hover-select: false;
+ location: 7;
+}
+@theme "DarkBlue"
