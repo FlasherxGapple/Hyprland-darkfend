@@ -49,3 +49,15 @@ install the dependencies:
 ```
 yay -Syu kitty swaync waybar swww waypaper wofi wlogout xdg-desktop-portal-hyprland grim grimshot btop pamixer pavucontrol swaylock ttf-jetbrains-mono-nerd noto-fonts-emoji network-manager-applet swaylock-effects sddm pipewire wireplumber chiplist hyprland cava blueman dolphin firefox
 ```
+
+After all dependencies is installed copy the dotfiles from this repository to your .config directory
+```
+cd
+git clone https://github.com/FlasherxGapple/Hyprland-darkfend.git
+cp -r ~/Hyprland-darkfend/ .config
+```
+
+then congratulations your darkfend dotfiles is installed
+if you found an issues or bug, report it to issues section of this repository
+
+Made by @Flasherxgapple inspired by Hyprv3
