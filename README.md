@@ -6,7 +6,7 @@
 |____/ \__,_|_|  |_|\_\_|  \___|_| |_|\__,_|
 ```
 An simple hyprland dotfiles for arch linux and arch based distro
-Made by @Flasherxgapple aka Fendi
+Made by [@Flasherxgapple](https://github.com/Flasherxgapple) aka Fendi
 
 ![screenshot of darkfend dotfiles](/Hyprland-overview.png)
 
